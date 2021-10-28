@@ -11,19 +11,19 @@
              },
 
              "iCloudStatus" : {
-                "This is a test to see if this is recieved well."
+                true
              },
 
              "websiteStatus" : {
-                "This is a test to see if this is recieved well."
+                true
              },
 
              "inAppPurchaseStatus" : {
-                "This is a test to see if this is recieved well."
+                true
              },
 
              "supportStatus" : {
-                "This is a test to see if this is recieved well."
+                true
              }
          }
     }
