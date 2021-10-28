@@ -1,28 +1,30 @@
 
 {
-    "results" : {
-         "developerNotice" : {
-            "This is a test to see if this is recieved well."
-         },
-         
-         "interruptionNotice" : {
-            "This is a test to see if this is recieved well."
-         },
-         
-         "iCloudStatus" : {
-            "This is a test to see if this is recieved well."
-         },
-         
-         "websiteStatus" : {
-            "This is a test to see if this is recieved well."
-         },
-         
-         "inAppPurchaseStatus" : {
-            "This is a test to see if this is recieved well."
-         },
-         
-         "supportStatus" : {
-            "This is a test to see if this is recieved well."
+    "status" : {
+        "collectables" : {
+             "developerNotice" : {
+                "This is a test to see if this is recieved well."
+             },
+
+             "interruptionNotice" : {
+                "This is a test to see if this is recieved well."
+             },
+
+             "iCloudStatus" : {
+                "This is a test to see if this is recieved well."
+             },
+
+             "websiteStatus" : {
+                "This is a test to see if this is recieved well."
+             },
+
+             "inAppPurchaseStatus" : {
+                "This is a test to see if this is recieved well."
+             },
+
+             "supportStatus" : {
+                "This is a test to see if this is recieved well."
+             }
          }
     }
 }
