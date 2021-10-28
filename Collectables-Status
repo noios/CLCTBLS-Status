@@ -1,6 +1,6 @@
 {
-    "status" : {
-        "results" : {
+    "results" : {
+        "collectables" : {
              "developerNotice" : "This is a test to see if this is recieved well.",
              "interruptionNotice" : "This is a test to see if this is recieved well.",
              "iCloudStatus" : false,
