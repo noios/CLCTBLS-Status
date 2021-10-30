@@ -3,18 +3,18 @@
         "userId": 1,
         "id": 1,
         "developerNotice": "Test",
-        "completed": false
+        "interruptionNotice": "Test Interruption"
       },
       {
         "userId": 1,
         "id": 2,
         "developerNotice": "Test",
-        "completed": false
+        "interruptionNotice": "Test Interruption"
       },
       {
         "userId": 1,
         "id": 3,
         "developerNotice": "Test",
-        "completed": false
+        "interruptionNotice": "Test Interruption"
       }
   ]
