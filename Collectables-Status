@@ -1,6 +1,3 @@
-//Please note: For Booleans, true == fault in progress; false == systems operational
-//Bools are broken. Use Strings and convert in-app
-
 [
       {
         "userId": 1,
