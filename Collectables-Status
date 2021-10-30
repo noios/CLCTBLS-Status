@@ -1,33 +1,16 @@
+//Please note: For Booleans, true == fault in progress; false == systems operational
+//Bools are broken. Use Strings and convert in-app
+
 [
       {
         "userId": 1,
         "id": 1,
-        "developerNotice": "Test",
-        "interruptionNotice": "Test Interruption",
-        "iCloudStatus": "WORKING",
-        "websiteStatus": "WORKING",
-        "inAppPurchaseStatus": "WORKING",
-        "supportStatus": "WORKING"
+        "developerNotice": "",
+        "interruptionNotice": "Not Currenly Enabled -- Ignore",
+        "iCloudStatus": "false",
+        "websiteStatus": "false",
+        "inAppPurchaseStatus": "false",
+        "supportStatus": "false"
         
-      },
-      {
-        "userId": 1,
-        "id": 2,
-        "developerNotice": "Test",
-        "interruptionNotice": "Test Interruption",
-        "iCloudStatus": "WORKING",
-        "websiteStatus": "WORKING",
-        "inAppPurchaseStatus": "WORKING",
-        "supportStatus": "WORKING"        
-      },
-      {
-        "userId": 1,
-        "id": 3,
-        "developerNotice": "Test",
-        "interruptionNotice": "Test Interruption",
-        "iCloudStatus": "WORKING",
-        "websiteStatus": "WORKING",
-        "inAppPurchaseStatus": "WORKING",
-        "supportStatus": "WORKING"
-        }
+      }
   ]
