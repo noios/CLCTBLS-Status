@@ -4,14 +4,14 @@
         "id": 1,
         "developerNotice": "Test",
         "interruptionNotice": "Test Interruption"
-        "iCloudStatus": false
+        "iCloudStatus": "WORKING"
       },
       {
         "userId": 1,
         "id": 2,
         "developerNotice": "Test",
         "interruptionNotice": "Test Interruption"
-        "iCloudStatus": false
+        "iCloudStatus": "WORKING"
         
       },
       {
@@ -19,6 +19,6 @@
         "id": 3,
         "developerNotice": "Test",
         "interruptionNotice": "Test Interruption"
-        "iCloudStatus": false
+        "iCloudStatus": "WORKING"
       }
   ]
